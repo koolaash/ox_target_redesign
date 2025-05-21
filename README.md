@@ -1,9 +1,6 @@
 # ox_target
 
-![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
-![](https://img.shields.io/github/downloads/overextended/ox_target/latest/total?logo=github)
-![](https://img.shields.io/github/contributors/overextended/ox_target?logo=github)
-![](https://img.shields.io/github/v/release/overextended/ox_target?logo=github) 
+![](https://img.shields.io/github/downloads/koolaash/ox_target_redesign/total?logo=github) 
 
 
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality for supported frameworks.
